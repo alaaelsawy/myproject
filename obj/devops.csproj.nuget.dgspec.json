@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alaaelsawy/devops/devops.csproj": {}
+    "/home/alaaelsawy/testapp/myproject/devops.csproj": {}
   },
   "projects": {
-    "/home/alaaelsawy/devops/devops.csproj": {
+    "/home/alaaelsawy/testapp/myproject/devops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alaaelsawy/devops/devops.csproj",
+        "projectUniqueName": "/home/alaaelsawy/testapp/myproject/devops.csproj",
         "projectName": "devops",
-        "projectPath": "/home/alaaelsawy/devops/devops.csproj",
+        "projectPath": "/home/alaaelsawy/testapp/myproject/devops.csproj",
         "packagesPath": "/home/alaaelsawy/.nuget/packages/",
-        "outputPath": "/home/alaaelsawy/devops/obj/",
+        "outputPath": "/home/alaaelsawy/testapp/myproject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alaaelsawy/.nuget/NuGet/NuGet.Config"

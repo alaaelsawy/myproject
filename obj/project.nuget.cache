@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YTpl5W50MaLG4CT2nx0OC19RYmN3SDR+0KJDjY63pKw7p9lFPTSXyzpA/zDPxiEEFrTX0gub2kZTnKMdwPbsng==",
+  "dgSpecHash": "NkCNOKxuz+RBxLicWSB9bDsDKQhoV403TNSjoiJ3+R52A8tjwjR3Ti5We4WkqFNWIT7PIOc3eUeBsE/IlvLiEg==",
   "success": true,
-  "projectFilePath": "/home/alaaelsawy/devops/devops.csproj",
+  "projectFilePath": "/home/alaaelsawy/testapp/myproject/devops.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
